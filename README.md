@@ -8,4 +8,4 @@
 
 ### Languages and Tools:
 
-[<img align= left alt='JavaScript" width= "26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthebug.co.il%2Fjavascript-tutorial%2F&psig=AOvVaw24D3boprhXot4cxYEJXQb8&ust=1621280309128000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjb0Pn5zvACFQAAAAAdAAAAABAD" />]
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fthebug.co.il%2Fjavascript-tutorial%2F&psig=AOvVaw24D3boprhXot4cxYEJXQb8&ust=1621280309128000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjb0Pn5zvACFQAAAAAdAAAAABAD
