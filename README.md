@@ -8,4 +8,4 @@
 
 ### Languages and Tools:
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fthebug.co.il%2Fjavascript-tutorial%2F&psig=AOvVaw24D3boprhXot4cxYEJXQb8&ust=1621280309128000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjb0Pn5zvACFQAAAAAdAAAAABAD
+[github-small](http://thebug.co.il//wp-content/uploads/2014/12/Unofficial_JavaScript_logo_2.svg_.png)
