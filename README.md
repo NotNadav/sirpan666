@@ -4,7 +4,7 @@
 
 - 💼 I'm currently learning computer science in my school
 - 🥡 I'm looking to share my projects with everyone
-- 🎌 Fun fact: I really love anime and japanese cloture
+- 🎌 Fun fact: I really love anime and japanese colture as well as video games
 
 ### Languages and Tools:
 
@@ -14,6 +14,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="55" height="55" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50" >
 <img src="https://discord.js.org/static/logo-square.png" width="55" height="55" >
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="55" height="55" >
 
 
 <br />
