@@ -1,4 +1,4 @@
-## Hello there, I'm Nadav - AKA sigron666
+## Hello there, I'm Nadav - AKA NotNadav
 
 ## I'm a student, and learning computer science :3
 
